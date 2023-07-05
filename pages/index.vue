@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="intro">
-      <h1>Nuxt Toolbox</h1>
+      <h1>Nuxt Toolbox by Vasilis PS</h1>
       <p>
         Hi 👋! This template gives you a
         <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
@@ -17,7 +17,7 @@
         You can find the code for this project on GitHub at
         <a href="https://github.com/netlify-templates/nuxt-toolbox"
           >https://github.com/netlify-templates/nuxt-toolbox</a
-        >! Happy coding!
+        >! Happy coding!!!!
       </p>
     </div>
     <FeedbackForm />
